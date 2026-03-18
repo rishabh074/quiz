@@ -1,5 +1,121 @@
 # quiz
 
+
+# 🧠 Quiz App (Vue 3 + Vite)
+
+A simple and interactive quiz application built using **Vue 3 (Composition API)** and **Vite**.
+Users can answer multiple-choice questions, track progress, and view results at the end.
+
+---
+
+## 🚀 Features
+
+* ✅ Multiple-choice questions
+* 📊 Dynamic progress bar
+* 🎯 Score tracking (correct answers)
+* 🏁 Result screen based on score
+* 🔄 Reset quiz functionality
+* ⚡ Fast performance with Vite
+
+---
+
+## 🛠️ Tech Stack
+
+* Vue 3 (Composition API)
+* Vite
+* JavaScript (ES6)
+* SCSS
+
+---
+
+## 📂 Project Structure
+
+quiz/
+│── public/
+│── src/
+│   ├── components/
+│   │   ├── questions.vue
+│   │   ├── results.vue
+│   ├── App.vue
+│   ├── main.js
+│── package.json
+│── vite.config.js
+
+---
+
+## 📸 Screenshots
+
+### 🟢 Question Screen
+
+![Question Screen](./screenshots/question.png)
+
+### 📊 Progress Bar
+
+![Progress](./screenshots/progress.png)
+
+### 🏁 Result Screen
+
+![Result](./screenshots/result.png)
+
+---
+
+## ⚙️ Setup Instructions
+
+### Install dependencies
+
+npm install
+
+### Run development server
+
+npm run dev
+
+### Build for production
+
+npm run build
+
+---
+
+## 🔄 How It Works
+
+* User selects an answer
+* App checks if it is correct
+* Updates:
+
+  * totalCorrect
+  * questionsAnswered
+* Progress bar updates dynamically
+* After last question → results screen is shown
+
+---
+
+## 🎯 Future Improvements
+
+* Add timer per question
+* Add categories
+* Save score in local storage
+* Add animations
+
+---
+
+## 👨‍💻 Author
+
+Rishabh Bedi
+Frontend Developer (Vue.js | React | Angular)
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+
+
+
+
+
+
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
