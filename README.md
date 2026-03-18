@@ -47,16 +47,19 @@ quiz/
 
 ### 🟢 Question Screen
 
-![Question Screen](./screenshots/question.png)
+![Screenshot](./screenshots/Screenshot%202026-03-18%20144012.png)
 
 ### 📊 Progress Bar
 
-![Progress](./screenshots/progress.png)
+![Progress](./screenshots/Screenshot%202026-03-18%20144037.png)
 
 ### 🏁 Result Screen
 
-![Result](./screenshots/result.png)
+![Result](./screenshots/Screenshot%202026-03-18%20144051.png)
 
+### 🏁 Result Screen
+
+![Result2](./screenshots/Screenshot%202026-03-18%20144101.png)
 ---
 
 ## ⚙️ Setup Instructions
